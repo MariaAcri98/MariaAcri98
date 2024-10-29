@@ -1,10 +1,10 @@
-Hola mi nombre es Maria Soledad Acri ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hola mi nombre es Maria ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
  Estudiante de Desarrollo web y Diseño web 
  * 🌍Estoy radicado en Argentina
  * ✉️ Puedes contactarme en [acrimaria2@gmail.com](mailto:acrimaria2@gmail.com)[](mailto:acrimaria2@gmail.com)
  * 🧠Estoy aprendiendo HTML y CSS
- * 🤝 Estoy abierto a colaborar en Estoy buscando colaborar en cualquier proyecto de código abierto.
+ * 🤝 Estoy abierto a colaborar en cualquier proyecto de código abierto.
 
 ### Habilidades
 
